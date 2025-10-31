@@ -1,4 +1,4 @@
-# hebp-website
+# <img src="assets/hebp (1).ico" style="width:30px"></img>   hebp-website 
 I’m thrilled to share that I’ve designed and developed the official website for Hoshmand Energy Bahrevaran Paydar (HEBP) — a company specialized in renewable energy, industrial optimization, and energy consulting.
 
 This project was far more than a simple website build; it was a complete hands-on journey in:
