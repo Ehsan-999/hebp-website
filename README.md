@@ -2,7 +2,6 @@
 I’m thrilled to share that I’ve designed and developed the official website for Hoshmand Energy Bahrevaran Paydar (HEBP) — a company specialized in renewable energy, industrial optimization, and energy consulting.
 
 This project was far more than a simple website build; it was a complete hands-on journey in:
-<br>🔹 UI/UX design focused on clarity and modern minimalism
 <br>🔹 Fully bilingual implementation (English / Persian) with dynamic language switching
 <br>🔹 Mobile responsiveness and performance optimization
 <br>🔹 SEO-friendly structure for better visibility
